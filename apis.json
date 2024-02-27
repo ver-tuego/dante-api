@@ -1,0 +1,8 @@
+{
+    "apis": [
+        {"name": "API Launcher", "uri": "http://95.163.25.189/"},
+        {"name": "API PingPong", "uri": "http://example.com/api2"},
+        {"name": "API PingPong", "uri": "http://example.com/api2"},
+        {"name": "API PingPong", "uri": "http://example.com/api2"}
+    ]
+}
